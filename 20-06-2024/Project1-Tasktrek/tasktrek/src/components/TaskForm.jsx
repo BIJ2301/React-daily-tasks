@@ -20,7 +20,6 @@ const TaskForm = () => {
     })
 
     const handleChange = (e) => {
-        // const { name , value}
         const name = e.target.name;
         const value = e.target.value;
 
